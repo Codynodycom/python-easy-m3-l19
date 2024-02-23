@@ -2,13 +2,13 @@
 
 ## Содержание
 
-[Фильтрация данных](theory/)
+[Фильтрация данных](theory/01-01-filtering.md)
 
 [Методы строк python](https://github.com/Codynodycom/python-easy-m1-l4/blob/main/theory/02-list-of-methods.md)
 
 [Методы списков python](theory/01-02-list-methods.md)
 
-[Базовые алгоритмы шифрования](theory/)
+[Базовые алгоритмы шифрования](theory/02-01-encryption.md)
 
 <hr>
 
